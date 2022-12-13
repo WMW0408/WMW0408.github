@@ -1,0 +1,38 @@
+<html> 
+<head>
+<title>圖片操作</title>
+</head>
+<body>
+
+
+
+
+<h2>圖片操作貓狗</h2>
+<img src="001.jpg" alt="Trulli" width="400" height="300">
+<img src="002.jpg" alt="Trulli" width="400" height="300">
+<img src="003.jpg" alt="Trulli" width="400" height="300">
+
+
+<p>作法：
+<p>1.白飯攤平開，讓水氣蒸發，放涼。
+<p>2.雞蛋打散備用。
+<p>3.熱鍋，開大火，放入豬油加熱至融化，再放入蛋液，將蛋炒碎，至微焦香。
+<p>4.放入蒜末炒香，再放入白飯，翻炒至白飯鬆香。
+<p>5.再放入醬油、白胡椒粉，輕壓翻炒均勻至每粒飯都裹上醬色，再撒上蔥花炒勻即可。
+
+
+
+
+
+
+
+<video width="400" height="300" controls>
+  <source src="001.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+
+</body>
+</html>
+
